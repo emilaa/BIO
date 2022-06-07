@@ -1,0 +1,5 @@
+Name: Emil
+Surname: Abdullayev
+Age: 20
+Education: Code Academy
+Region: Baku
